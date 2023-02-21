@@ -41,6 +41,9 @@ Creating test cases and scenarios, defects reporting, Severity and Priority, int
 * mentor_testowania_oprogramowania
 * matka_testerka_it
 
+## Books
+* e-book "ABC Testowania oprogramowania" Waldemar Szafraniec, Dorota Gabor
+
 ## Linkedin link
 [LINK to Ewelina Błażejowska/Linkedin](https://linkedin.com/in/ewelina-błażejowska-b11761143)
 
