@@ -42,10 +42,11 @@ Creating test cases and scenarios, defects reporting, Severity and Priority, int
 * matka_testerka_it
 
 ## Linkedin link
-https://linkedin.com/in/ewelina-błażejowska-b11761143
+[LINK to Ewelina Błażejowska/Linkedin](https://linkedin.com/in/ewelina-błażejowska-b11761143)
 
 
 My projects / My test case examples / My bug reports 
+
 
 
 
