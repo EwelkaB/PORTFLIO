@@ -41,7 +41,9 @@ Creating test cases and scenarios, defects reporting, Severity and Priority, int
 * mentor_testowania_oprogramowania
 * matka_testerka_it
 
-## Recommended blogs
+## Linkedin link
+
+linkedin.com/in/ewelina-błażejowska-b11761143
 
 
 My projects / My test case examples / My bug reports 
