@@ -9,8 +9,8 @@ Testing theory, software delivery methodology Scrum, how to test web and mobile 
 Writing test cases, reporting bugs, writing bug’s reports, building a portfolio in GitHub, creating tickets in JIRA, testing web and mobile applications  
 * Udemy - Podstawy manualnego testowania oprogramowania  
 Creating test cases and scenarios, defects reporting, Severity and Priority, introduction to Scrum methodology, web application architecture   
-* SQL dla każdego – basics 
-* SQL - jęsyk zapytań do bazy danych SQl Server  - in progres  
+* Twoje Kursy - SQL dla każdego – in progres
+* Udemy - SQL - jęsyk zapytań do bazy danych SQl Server  - in progres  
 
 ## Tools
 * GitHub
