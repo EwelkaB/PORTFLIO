@@ -45,8 +45,16 @@ Creating test cases and scenarios, defects reporting, Severity and Priority, int
 [LINK to Ewelina Błażejowska/Linkedin](https://linkedin.com/in/ewelina-błażejowska-b11761143)
 
 ## My test case examples 
+[LINK to test cases_1](https://docs.google.com/spreadsheets/d/1_jV7GjwASGaW7uhVWbbMcC0yWcDtggTtLqbqWk8J-Jo/edit#gid=0)
 
-## My bug reports 
+[LINK to test cases_2](https://docs.google.com/spreadsheets/d/14hhGsmBSDINuQ_n9FJ98Itue3VjMqvfR0PEzMA42wfw/edit#gid=0)
+
+## My bugs report examples
+[LINK to Bugs report](https://docs.google.com/spreadsheets/d/17l4eSsO67av_doPfC72_he-xIuj8uXPDjXvKNiSILzU/edit#gid=1426167314)
+
+## My test report examples
+[LINK to Test report](https://docs.google.com/document/d/1xsqKnYKGjQUD-gGd_atLLBd4oIccjO0jRUEMt2kmdbc/edit)
+
 
 
 
