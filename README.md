@@ -9,14 +9,17 @@ Testing theory, software delivery methodology Scrum, how to test web and mobile 
 Writing test cases, reporting bugs, writing bug’s reports, building a portfolio in GitHub, creating tickets in JIRA, testing web and mobile applications  
 * Udemy - Podstawy manualnego testowania oprogramowania  
 Creating test cases and scenarios, defects reporting, Severity and Priority, introduction to Scrum methodology, web application architecture   
-* Twoje Kursy - SQL dla każdego – in progres
-* Udemy - SQL - jęsyk zapytań do bazy danych SQl Server  - in progres  
+* Twoje Kursy - SQL dla każdego 
+* Udemy - SQL - język zapytań do bazy danych SQL Server   
+* Ifs&whiles Kurs Testowanie Manualne  
+Writing test cases and reporting bugs in the Trello  
 
 ## Tools
 * GitHub
 * XAMPP
 * Jira
 * Slack 
+* MySQL 
 
 ## Skils 	 
 * accuracy, attention to details 
@@ -38,7 +41,7 @@ Creating test cases and scenarios, defects reporting, Severity and Priority, int
 
 ## IT groups on Instagram
 * Majka.testerka
-* mentor_testowania_oprogramowania
+* mentor_testowania_opr
 * matka_testerka_it
 
 ## Books
